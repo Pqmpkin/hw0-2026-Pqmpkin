@@ -1,2 +1,2 @@
 https://pqmpkin.github.io/hw0-2026-Pqmpkin/
-directories_are_fun_gotta_catch_em_all
+byte0: directories_are_fun_gotta_catch_em_all
